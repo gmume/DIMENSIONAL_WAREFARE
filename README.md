@@ -73,3 +73,7 @@ Ships, that arrive an upper dimension, can be placed new.
 <video width="100%" height="100%" controls="controls">
   <source src="video/video6.mp4" type="video/mp4">
 </video> 
+
+## 26.06.2023
+Ships come in different sizes.
+![Different ships] (img/img1.png)

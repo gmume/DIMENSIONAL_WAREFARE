@@ -79,4 +79,4 @@ Ships come in different sizes.
 ![Different ships](img/img1.png)
 
 ## 27.06.2023
-Updated ships occupying cells and collision course.
+Updated ships occupying cells, collision course and hit detection.

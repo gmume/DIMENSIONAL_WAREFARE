@@ -80,3 +80,6 @@ Ships come in different sizes.
 
 ## 27.06.2023
 Updated ships occupying cells, collision course and hit detection.
+
+## 28.06.2023
+Sunk ships respawn on lower dimension, if they aren't already on dimension 1.

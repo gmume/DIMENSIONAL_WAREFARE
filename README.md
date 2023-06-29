@@ -57,7 +57,7 @@ New bug detected. Coordinates of active cells and ships are not the same on hitt
   <source src="video/video3.mp4" type="video/mp4">
 </video> 
 Finally, it's working again.
-Hit ships get now visible and collision course detection was added: [collision course detection](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/c71a91cbb8dd109cf5c662931051f3876bb639cc/Assets/Scripts/Fleet/Ship.cs#L64-L107)  
+Hit ships get now visible and collision course detection was added: https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/c71a91cbb8dd109cf5c662931051f3876bb639cc/Assets/Scripts/Fleet/Ship.cs#L64-L107  
 <video width="100%" height="100%" controls="controls">
   <source src="video/video4.mp4" type="video/mp4">
 </video> 

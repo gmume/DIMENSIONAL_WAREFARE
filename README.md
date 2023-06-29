@@ -79,7 +79,14 @@ Ships come in different sizes.
 ![Different ships](img/img1.png)
 
 ## 27.06.2023
-Updated ships occupying cells, collision course and hit detection.
+Updated ships occupying cells and collision course.
+
+## 28.06.2023
+Updated collision course and hit detection.
+
+## 29.06.2023
+First display shows black screen in build mode fixed.
+![First display with black screen](img/img2.png)
 
 ## 28.06.2023
 Sunk ships respawn on lower dimension, if they aren't already on dimension 1.

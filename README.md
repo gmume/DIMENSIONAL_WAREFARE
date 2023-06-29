@@ -29,8 +29,8 @@ Up until now, you can play the start phace of DIMENSIONAL WAREFER and you can sh
 Fixed turn issues
 
 ## 16.05.2023
-Added hit detection
-[Hit detection](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/b192315552d55c617ce58b3fca6f982090e2abf0/Assets/Scripts/Fleet/Ship.cs#L139-L157)
+Added hit detection  
+[hit detection](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/b192315552d55c617ce58b3fca6f982090e2abf0/Assets/Scripts/Fleet/Ship.cs#L139-L157)
 
 ## 17.05.2023
 Users can now see better, which ship is selected in the HUD and on the dimension.
@@ -39,7 +39,8 @@ Users can now see better, which ship is selected in the HUD and on the dimension
 </video> 
 
 ## 06.06.2023
-Updated player swap
+Updated player swap  
+[player swap](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/3d4b39d8474e041904f6eb93e2e17264be6164cf/Assets/Scripts/Fleet/Fleet.cs#L32-L48)  
 Active ships and cells are now working correctly.
 Added script Player. 
 Refacotred properties.

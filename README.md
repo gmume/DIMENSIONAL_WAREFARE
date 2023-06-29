@@ -80,13 +80,17 @@ Ships come in different sizes.
 ![Different ships](img/img1.png)
 
 ## 27.06.2023
-Updated ships occupying cells, collision course and hit detection.
+Updated ships occupying cells, collision course and hit detection:  
+https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/f3879ca1a22d26fdc9b4a5170396c9ff16e34e9a/Assets/Scripts/Fleet/Ship.cs#L105-L121  
+https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/f3879ca1a22d26fdc9b4a5170396c9ff16e34e9a/Assets/Scripts/Fleet/Ship.cs#L138-L172  
+https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/f3879ca1a22d26fdc9b4a5170396c9ff16e34e9a/Assets/Scripts/Fleet/Ship.cs#L228-L243  
+https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/f3879ca1a22d26fdc9b4a5170396c9ff16e34e9a/Assets/Scripts/Fleet/Ship.cs#L284-L340
 
 ## 28.06.2023
-Sunk ships respawn on lower dimension, if they aren't already on dimension 1.
+Sunk ships respawn on lower dimension, if they aren't already on thie lowest dimension: https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/84e771b4d6fc81b92fcee3b712299bd8aac5148e/Assets/Scripts/Fleet/Ship.cs#L339-L368
 
 ## 29.06.2023
 First display shows black screen in build mode fixed.  
 ![First display with black screen](img/img2.jpg)  
-Implemented prioritized initialization of classes.
+Implemented prioritized initialization of classes: https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/cf6c6f409116eb64204ef174a103e70bb9e8ba5b/Assets/Scripts/Multiplayer/PlayerWorld.cs#L55-L62
 

@@ -85,8 +85,7 @@ Updated ships occupying cells, collision course and hit detection.
 Sunk ships respawn on lower dimension, if they aren't already on dimension 1.
 
 ## 29.06.2023
-First display shows black screen in build mode fixed.
-
-![First display with black screen](img/img2.jpg)
+First display shows black screen in build mode fixed.  
+![First display with black screen](img/img2.jpg)  
 Implemented prioritized initialization of classes.
 

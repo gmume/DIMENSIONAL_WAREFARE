@@ -94,12 +94,12 @@ Updated ships occupying cells, collision course ([straight move](https://github.
 <span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/f3879ca1a22d26fdc9b4a5170396c9ff16e34e9a/Assets/Scripts/Fleet/Ship.cs#L284-L340</span>
 
 ## 28.06.2023
-Sunk [ships respawn on lower dimension](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/84e771b4d6fc81b92fcee3b712299bd8aac5148e/Assets/Scripts/Fleet/Ship.cs#L339-L368), if they aren't already on thie lowest dimension
-<span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/84e771b4d6fc81b92fcee3b712299bd8aac5148e/Assets/Scripts/Fleet/Ship.cs#L339-L36</span>
+Sunk [ships respawn on lower dimension](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/84e771b4d6fc81b92fcee3b712299bd8aac5148e/Assets/Scripts/Fleet/Ship.cs#L339-L368), if they aren't already on the lowest dimension
+<span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/84e771b4d6fc81b92fcee3b712299bd8aac5148e/Assets/Scripts/Fleet/Ship.cs#L339-L368</span>
 
 ## 29.06.2023
 First display shows black screen in build mode fixed.  
 ![First display with black screen](img/img2.jpg)  
 Implemented [prioritized initialization](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/cf6c6f409116eb64204ef174a103e70bb9e8ba5b/Assets/Scripts/Multiplayer/PlayerWorld.cs#L55-L62) of classes
-<span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/cf6c6f409116eb64204ef174a103e70bb9e8ba5b/Assets/Scripts/Multiplayer/PlayerWorld.cs#L55-L6</span>
+<span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/cf6c6f409116eb64204ef174a103e70bb9e8ba5b/Assets/Scripts/Multiplayer/PlayerWorld.cs#L55-L62</span>
 

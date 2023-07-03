@@ -1,7 +1,7 @@
 # DIMENSIONAL WARFARE
 A local multiplayer game on PC with controllers.
 
-## Welcome at DIMENSIONAL WAREFARE
+## Welcome at DIMENSIONAL WARFARE
 This website is all about DIMENSIONAL WARFARE, a game, that I started to build in a module while studying IT and design at the Lucern University of Applied Sciences and Arts. Because I failed to implement the core game play completely, I'd like to finish it in this mentoring project. In a talk with my mentor Guillaume Massol I decided on three goals to achieve until the end of this semester.
 
 ### Goals

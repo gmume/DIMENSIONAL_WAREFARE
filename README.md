@@ -1,8 +1,8 @@
-# DIMENSIONAL WAREFARE
+# DIMENSIONAL WARFARE
 A local multiplayer game on PC with controllers.
 
 ## Welcome at DIMENSIONAL WAREFARE
-This website is all about DIMENSIONAL WAREFARE, a game, that I started to build in a modul while studying IT and design at the Lucern University of Applied Siences and Arts. Because I faild to implement the core game play completly, I'd like to finish it in this mentoring project. In a talk with my mentor Guillaume Massol I decided on three goals to achive until the end of this semester.
+This website is all about DIMENSIONAL WARFARE, a game, that I started to build in a module while studying IT and design at the Lucern University of Applied Sciences and Arts. Because I failed to implement the core game play completely, I'd like to finish it in this mentoring project. In a talk with my mentor Guillaume Massol I decided on three goals to achieve until the end of this semester.
 
 ### Goals
 1. Complete implementation of the core game play on one dimension
@@ -18,7 +18,7 @@ This website is all about DIMENSIONAL WAREFARE, a game, that I started to build 
    * [x] Information handling for classes
 
 ## Starting point
-Up until now, you can play the start phace of DIMENSIONAL WAREFER and you can shoot at your opponents fleet, even there isn't a hit detection implemented yet. If you are courious about the building process until here, you can read about it on the game blog of Digital Ideation.  
+Up until now, you can play the start phase  of DIMENSIONAL WARFER and you can shoot at your opponent’s fleet, even there isn't a hit detection implemented yet. If you are curious about the building process until here, you can read about it on the game blog of Digital Ideation.  
 [Game blog Digital Ideation, author: Melanie Gmünder](https://blog.hslu.ch/games/author/melaniegmuender/)  
   
 <video width="100%" height="100%" controls="controls">
@@ -42,12 +42,12 @@ Updated [player swap](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/3d4b39d
 <span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/3d4b39d8474e041904f6eb93e2e17264be6164cf/Assets/Scripts/Fleet/Fleet.cs#L32-L48</span>  
 Active ships and cells are now working correctly.
 Added [script Player](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/ec4bcb8cd7c0edb313a01de77ddd0aab843572b2/Assets/Scripts/Multiplayer/Player.cs#L7-L53)
-It holds all informations about the player, that other classes may need. Therefore it isn't necessary to set all properties separately in them anymore. 
+It holds all information about the player, that other classes may need. Therefore, it isn't necessary to set all properties separately in them anymore. 
 <span style="color:white">https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/ec4bcb8cd7c0edb313a01de77ddd0aab843572b2/Assets/Scripts/Multiplayer/Player.cs#L7-L53</span>  
 Refactored properties.
 
 ## 07.06.2023
-Refacturing: Transfered PlayerData, dimensions and fleet to Player.
+Refactoring: Transferred PlayerData, dimensions and fleet to Player.
 
 ## 12.06.2023
 [Hit detection](https://github.com/gmume/DIMENSIONAL_WAREFARE/blob/bd3cd517bc873adbe7f385ca48d7aa1b0ca7dbaf/Assets/Scripts/Fleet/Ship.cs#L161-L168) works

@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
 remote_theme: hydecorp/hydejack
-title: DIMENSIONAL WAREFARE
+title: DIMENSIONAL WARFARE
 description: A local multiplayer game on PC with controllers.
 show_downloads: "true"
 plugins:
